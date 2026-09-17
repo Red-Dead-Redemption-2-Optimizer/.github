@@ -1,2 +1,2 @@
 # .github
-Red Dead Redemption 2 performance optimization software for Windows graphics tuning. Optimize display settings, balance VRAM usage, improve frame rate stability, and adjust graphic rendering parameters for smooth gameplay under heavy system load.
+Red Dead Redemption 2 launcher utility for Windows performance management. Optimize display resolution settings, manage graphics configuration profiles, maintain frame rate stability, and adjust hardware rendering parameters for responsive open-world gaming.
